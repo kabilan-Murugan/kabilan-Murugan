@@ -167,7 +167,7 @@ Automation scripts for:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabilan-Murugan&show_icons=true&theme=tokyonight&count_private=true" />
@@ -180,15 +180,15 @@ Automation scripts for:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabilan-Murugan&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kabilan-Murugan&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilan-Murugan&theme=tokyo-night" />
@@ -196,10 +196,10 @@ Automation scripts for:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kabilan-Murugan/kabilan-Murugan/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kabilan-Murugan/kabilan-Murugan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
