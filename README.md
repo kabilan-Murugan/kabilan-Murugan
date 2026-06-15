@@ -183,7 +183,8 @@ Automation scripts for:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabilan-Murugan&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://streak-stats.demolab.com/?user=kabilan-Murugan&theme=tokyonight&utm_source=chatgpt.com" />
+  
 </p>
 
 ---
