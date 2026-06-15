@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: kabilan-m
+          github_user_name: kabilan-Murugan
           outputs: |
             dist/github-contribution-grid-snake.svg
 
